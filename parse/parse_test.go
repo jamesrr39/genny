@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cheekybits/genny/parse"
+	"github.com/jamesrr39/genny/parse"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -128,7 +128,7 @@ var tests = []struct {
 	{
 		filename:    "buildtags.go",
 		in:          `test/extrapackages/generic_extrapackage.go`,
-		types:       []map[string]string{{"ForeignType": "github.com/cheekybits/genny/parse/test/extrapackages/extrapkg.MyType"}},
+		types:       []map[string]string{{"ForeignType": "github.com/jamesrr39/genny/parse/test/extrapackages/extrapkg.MyType"}},
 		expectedOut: `test/extrapackages/built_extrapackage.go`,
 		tag:         "",
 	},

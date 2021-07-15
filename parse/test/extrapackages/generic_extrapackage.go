@@ -1,6 +1,6 @@
 package extrapackages
 
-import "github.com/cheekybits/genny/generic"
+import "github.com/jamesrr39/genny/generic"
 
 type ForeignType generic.Type
 
