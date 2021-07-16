@@ -1,6 +1,8 @@
 # genny - Generics for Go
 
-[![Build Status](https://travis-ci.org/cheekybits/genny.svg?branch=master)](https://travis-ci.org/cheekybits/genny) [![GoDoc](https://godoc.org/github.com/jamesrr39/genny/parse?status.png)](http://godoc.org/github.com/jamesrr39/genny/parse)
+Note: This is a fork of [https://github.com/cheekybits/genny](https://github.com/cheekybits/genny) with extra features that I wasn't able to get merged into that repository. I will maintain this repo until generics are generally available as part of a Go language release.
+
+[![GoDoc](https://godoc.org/github.com/jamesrr39/genny/parse?status.png)](http://godoc.org/github.com/jamesrr39/genny/parse)
 
 Install:
 
