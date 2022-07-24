@@ -1,6 +1,8 @@
 # genny - Generics for Go
 
-Note: This is a fork of [https://github.com/cheekybits/genny](https://github.com/cheekybits/genny) with extra features that I wasn't able to get merged into that repository. I will maintain this repo until generics are generally available as part of a Go language release.
+Note: This is a fork of [https://github.com/cheekybits/genny](https://github.com/cheekybits/genny) with extra features that I wasn't able to get merged into that repository.
+
+Now that generics is available as part of Go 1.18, this repo is archived and there are no plans to develop anything further on it.
 
 [![GoDoc](https://godoc.org/github.com/jamesrr39/genny/parse?status.png)](http://godoc.org/github.com/jamesrr39/genny/parse)
 
